@@ -43,27 +43,9 @@
 
 ###
 <div align="left">
-  <a href="https://www.instagram.com/hdcisrael/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/israel-schroeder/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="Mano#5871" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.twitch.tv/iclooud" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="70" height="40" alt="twitch logo"  />
-  </a>
   <a href="israelschroederm@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&custom_title=Estatísticas&username=icl00ud" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&username=icl00ud" height="150" alt="languages graph"  />
-</div>
-
-###
