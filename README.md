@@ -58,3 +58,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+##
+
+<div>
+  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@icl00ud" frameborder="0"></iframe>
+</div>
