@@ -12,13 +12,13 @@
 <img align="right" height="200" src="https://media3.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47htxxo29360v5iow91pvq0n5g4cvic8y7vmq2di41&rid=giphy.gif&ct=g"  />
 
 ###
-<p align="left">👨‍✈️Meu nome é Israel Schroeder, tenho 22 anos e sou um Engenheiro de Software em formação 🎓<br>📚 Atualmente estou estudando Desenvolvimento Web e a procura de um estágio na área 👨‍💻<br>🎮 como hobbie, gosto de jogar e amo praticar esportes 🏄⚽</p>
+<p align="left">👨‍✈️Meu nome é Israel Schroeder, tenho 22 anos e sou um Engenheiro de Software em formação 🎓<br>📚 Atualmente estou estudando C# 👨‍💻<br>🎮 como hobbie, gosto de jogar e amo praticar esportes 🏄⚽</p>
 
 ###
 <p align="left">Uma curiosidade sobre mim</p>
 
 ###
-<p align="left">✈️ sou apaixonado por aviões e artefatos de guerra</p>
+<p align="left">✈️ sou apaixonado por aviões e como eles funcionam</p>
 
 ###
 <h2 align="left">Linguagens e Ferramentas:</h2>
