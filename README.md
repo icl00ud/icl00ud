@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">* 🌍  Joinville - SC<br><br>* 🎓 Estudante de Engenharia de Software<br><br>* 🧠 Estou aprofundando os conhecimentos em C#<br><br>* 👀 Uma curiosidade minha: sou apaixonado em aviões e já projetei aeromodelos competitivos ✈🛩<br><br>* 🎮 Como hobby, gosto de praticar esportes e jogar alguma coisinha (quase tudo) 😅<br><br>* ⚙ Facilidade com lógica e com muita vontade de aprender</p>
+<p align="left">* 🌍  Joinville - SC<br><br>* 🎓 Estudante de Engenharia de Software<br><br>* 🧠 Estou aprofundando os conhecimentos em C#<br><br>* 👀 Uma curiosidade minha: sou apaixonado em aviões e já projetei aeromodelos competitivos ✈🛩<br><br>* 🎮 Como hobby, gosto de praticar esportes e jogar alguma coisinha (quase tudo) 😅<br><br>* ⚙ Facilidade com lógica e muita vontade de aprender</p>
 
 ###
 
