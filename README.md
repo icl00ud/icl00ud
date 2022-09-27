@@ -62,5 +62,5 @@
 ##
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icl00ud"></img>
+  <img align="center" width=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=icl00ud"></img>
   </a>
