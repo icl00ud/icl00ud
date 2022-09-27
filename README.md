@@ -4,6 +4,7 @@
 
 ###
 <h1 align="center">Hello World!!</h1>
+<h2 align="center">me chamo Israel :-)</h2>
 
 ###
 <h2 align="left">Sobre mim</h2>
@@ -14,7 +15,7 @@
 
 ###
 
-<p align="left">* 🌍  Joinville - SC<br><br>* 🎓 Estudante de Engenharia de Software<br><br>* 🧠 Estou aprofundando os conhecimentos em C#<br><br>* 👀 Uma curiosidade minha: sou apaixonado em aviões e já projetei aeromodelos competitivos ✈🛩<br><br>* 🎮 Como hobby, gosto de praticar esportes e jogar alguma coisinha (quase tudo) 😅<br><br>* ✉️  meu email: israelschroederm@gmail.com</p>
+<p align="left">* 🌍  Joinville - SC<br><br>* 🎓 Estudante de Engenharia de Software<br><br>* 🧠 Estou aprofundando os conhecimentos em C#<br><br>* 👀 Uma curiosidade minha: sou apaixonado em aviões e já projetei aeromodelos competitivos ✈🛩<br><br>* 🎮 Como hobby, gosto de praticar esportes e jogar alguma coisinha (quase tudo) 😅<br><br>* ⚙ Facilidade com lógica e com muita vontade de aprender</p>
 
 ###
 
@@ -58,6 +59,14 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+##
+
+<h2 align="left">Contate-me 😀📲</h2>
+
+###
+
+<p align="left">* ✉️ meu email: israelschroederm@gmail.com<br><br>* 📱 (47) 9 9210-0216</p>
 
 ##
 
