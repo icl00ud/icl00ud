@@ -41,9 +41,11 @@
 
 ###
 
-<h2 align="left">Redes</h2>
+<h2 align="left">Contate-me 😀📲</h2>
 
 ###
+
+<p align="left">* ✉️ meu email: israelschroederm@gmail.com<br><br>* 📱 (47) 9 9210-0216</p>
 
 <div align="left">
   <a href="https://www.instagram.com/hdcisrael/" target="_blank">
@@ -59,14 +61,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-##
-
-<h2 align="left">Contate-me 😀📲</h2>
-
-###
-
-<p align="left">* ✉️ meu email: israelschroederm@gmail.com<br><br>* 📱 (47) 9 9210-0216</p>
 
 ##
 
