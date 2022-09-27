@@ -62,5 +62,5 @@
 ##
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=500px src="https://github-readme-stats.vercel.app/api/top-langs/?username=icl00ud&hide=html&layout=compact&custom_title=Linguagens mais usadas"></img>
+  <img align="center" width=500px src="https://github-readme-stats.vercel.app/api/top-langs/?username=icl00ud&hide=html&layout=compact&custom_title="Linguagens mais usadas""></img>
   </a>
