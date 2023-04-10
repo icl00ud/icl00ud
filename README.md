@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">* ✉️ meu email: israelschroederm@gmail.com<br><br>* 📱 (47) 9 9210-0216</p>
+<p align="left">* ✉️ meu email: israelschroederm@gmail.com<br></p>
 
 <div align="left">
   <a href="https://www.instagram.com/hdcisrael/" target="_blank">
