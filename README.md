@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">* 🌍  Joinville - SC<br><br>* 🎓 Estudante de Engenharia de Software<br><br>* 👀 Uma curiosidade sobre mim: amo aviões e projetava aeromodelos competitivos para SAE ✈🛩<br><br>* 🎮 Como hobby, gosto de praticar esportes e jogar qualquer coisa 😅<br><br>* ⚙ Facilidade com lógica e muita vontade de aprender</p>
+<p align="left">* 🌍  Joinville - SC<br><br>* 🎓 Estudante de Engenharia de Software<br><br>* Uma curiosidade sobre mim: amo aviões e projetava aeromodelos competitivos para SAE ✈🛩<br><br>* 🎮 Como hobby, gosto de praticar esportes e jogar qualquer coisa 😅<br><br>* ⚙ Facilidade com lógica e muita vontade de aprender</p>
 
 ###
 
