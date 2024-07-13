@@ -42,7 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="75" width="90" alt="grafana logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" height="75" width="90" alt="sonarqube logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="75" width="90" alt="gitlab logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="75" width="90" alt="matlab logo"  />
 </div>
 
 ###
