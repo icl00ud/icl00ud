@@ -4,10 +4,10 @@
 
 ###
 <h1 align="center">Hello World!!</h1>
-<h2 align="center">me chamo Israel :-)</h2>
+<h2 align="center">My name is Israel :-)</h2>
 
 ###
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
@@ -15,11 +15,11 @@
 
 ###
 
-<p align="left">* 🌍  Joinville - SC<br><br>* 🎓 Estudante de Engenharia de Software<br><br>* Uma curiosidade sobre mim: amo aviões e projetava aeromodelos competitivos para SAE ✈🛩<br><br>* 🎮 Como hobby, gosto de praticar esportes e jogar qualquer coisa 😅<br><br>* ⚙ Facilidade com lógica e muita vontade de aprender</p>
+<p align="left">* 🌍  Joinville - SC<br><br>* 🎓 Software Engineering Student<br><br>* A fun fact about me: I love airplanes and used to design competitive model aircraft for SAE ✈🛩<br><br>* ⚙ Strong logic skills and a great desire to learn</p>
 
 ###
 
-<h2 align="left">Linguagens e Ferramentas</h2>
+<h2 align="left">My Stack</h2>
 
 ###
 
@@ -48,11 +48,11 @@
 
 ###
 
-<h2 align="left">Contate-me 😀📲</h2>
+<h2 align="left">Contact Me 😀📲</h2>
 
 ###
 
-<p align="left">* ✉️ meu email: israelschroederm@gmail.com<br></p>
+<p align="left">* ✉️ my email: israelschroederm@gmail.com<br></p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/israel-schroeder/" target="_blank">
