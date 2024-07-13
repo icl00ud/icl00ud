@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">* 🌍  Joinville - SC<br><br>* 🎓 Software Engineering Student<br><br>* A fun fact about me: I love airplanes and used to design competitive model aircraft for SAE ✈🛩<br><br>* ⚙ Strong logic skills and a great desire to learn</p>
+<p align="left">* 📍 Based in Brazil - Joinville<br><br>* 🎓 Software Engineering Student<br><br>* A fun fact about me: I love airplanes and used to design competitive model aircraft for SAE ✈🛩<br><br>* ⚙ Strong logic skills and a great desire to learn</p>
 
 ###
 
