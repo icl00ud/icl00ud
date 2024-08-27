@@ -19,6 +19,15 @@
 
 ###
 
+<h2 align="left">What I'm Learning Now</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="75" width="90" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="75" width="90" alt="golang logo"  />
+</div>
+
+###
+
 <h2 align="left">My Stack</h2>
 
 ###
